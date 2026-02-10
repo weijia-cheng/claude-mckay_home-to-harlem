@@ -634,7 +634,7 @@ The black man heaved toward the yellow, but the waiters hooked and
 hustled him off… . Sitting at a table, the cabaret singer was soothing
 her eye.
 
-“Git out on the sidewalk, all you trouble\* makers,” cried the
+“Git out on the sidewalk, all you trouble-makers,” cried the
 proprietor. “And you, Bess,” he cried to the cabaret singer, “nevah you
 show your face in mah place again.”
 
@@ -728,7 +728,7 @@ apart,—reeled, strutted, drifted back to their green places… .
 Zeddy tossed down the third glass of Gordon gin and became aware of
 Rose, the Congo entertainer, singing at the table. Happy for the moment,
 he gave her fifty cents. She sang some more, but Zeddy saw that it was
-all for Jake\* Finished, she sat down, uninvited, at their table.
+all for Jake. Finished, she sat down, uninvited, at their table.
 
 How many nights, hungry nights, Zeddy had wished that Rose would sit
 down voluntarily at his table. He had asked her sometimes. She would
@@ -948,7 +948,7 @@ Waiter, bootblack, and barber shop?”
 
 “Me eye! Seems lak youse gittin’ religion, boh. Youse talking death,
 tha’s what you sure is. One thing I know is niggers am made foh life.
-And I want to live, boh, and feel plenty o’ the juice o\* life in mah
+And I want to live, boh, and feel plenty o’ the juice o' life in mah
 blood. I wanta live and I wanta love. And niggers am got to work hard
 foh that. Buddy, I’ll tell you this and I’ll tell it to the woT—all the
 crackers, all them poah white trash, all the nigger-hitting and
@@ -1140,7 +1140,7 @@ gin and listened to the phonograph, exchanged rakish stories, and when
 they felt fruit-ripe to dropping, left her place in pursuit of pleasures
 elsewhere.
 
-Sometimes Susy managed to lay hold of a yellow one for some time\*
+Sometimes Susy managed to lay hold of a yellow one for some time.
 Something all a piece of dirty rags and stench picked up in the street.
 Cleansed, clothed, and booted i t But so soon as he got his curly hair
 straightened by the process of Harlem’s Ambrozine Palace of Beauty, and
@@ -1558,12 +1558,12 @@ Susy stood broad and aggressive against the window overlooking Myrtle
 Avenue.
 
 “Harlem is all right,” said Zeddy. “I ain’t knocking round no cabarets
-and speakeasies. Ahm just gwine ovah wif Jake to see somathem boys\*”
+and speakeasies. Ahm just gwine ovah wif Jake to see somathem boys.”
 
 “Can that boy business!” cried Susy. “I’ve had anuff hell scrapping wif
 the women ovah mah mens. I ain’t agwine to have no Harlem boys seducin’
-mah man away fwom me\* The boy business is a fine excuse indeedy foh
-sich womens as ain’t wise. I always heah the boss say to the missus, \*I
+mah man away fwom me. The boy business is a fine excuse indeedy foh
+sich womens as ain’t wise. I always heah the boss say to the missus, ‘I
 gwine out foh a little time wif the boys, dearie.’ when him wants an
 excuse foh a night off. I ain’t born yestiday, honey. If you wants the
 boys foh a li’l game o’ poky, you bring ‘em ovah heah. I ain’t got the
@@ -1632,7 +1632,7 @@ hussies of her race.
 a-looking good to another woman,” Susy declared. “I done gived you fair
 warning to jest keep away from the buffet-flat widdahs and thim Harlem
 street floaters; foh ef I ketch you making a fool woman of me, I’ll
-throw you\* pants in the street.”
+throw you’ pants in the street.”
 
 “Hi, but youse talking sistah. Why don’t you wait till you see something
 before you staht in chewing the rag?”
@@ -1675,7 +1675,7 @@ and the hussies want to steal him, it’s the same thing with men, mah
 dear. So soon as a woman is all sugar and candy for another man, you
 find a lot of them heartbreakers all trying to get next to her. Like a
 set of strutting game cocks all priming themselves to crow over a li’l’
-piece o\* nothing.”
+piece o’ nothing.”
 
 “That’s the gospel trute indeed,” agreed Susy. “I done have a mess of
 knowledge ‘bout men tucked away heah.” Susy tapped her head of
@@ -2856,7 +2856,7 @@ flattened their bellies against the wall.
 “Le’s get outa this stinking dump and chase a drink, chappie.”
 
 Ray jumped out of his berth, shoved himself into his clothes and went
-with Jake. The saloon near by the pool-room was still open\* They went
+with Jake. The saloon near by the pool-room was still open. They went
 there. Ray asked for sherry.
 
 “You had better sample some hard liquor if youse gwine back to wrastle
@@ -2864,7 +2864,7 @@ with them bugs tonight,” Jake suggested.
 
 Ray took his advice. A light-yellow fellow chummed up with the boys and
 invited them to drink with him. He was as tall as Jake and very thin.
-There was a vacant, wandering look in his\* kindly-weak eyes. He was a
+There was a vacant, wandering look in his kindly-weak eyes. He was a
 waiter on another dining-car of the New York-Pittsburg run. Ray
 mentioned that he had to quit his bed because he couldn’t sleep.
 
@@ -3268,7 +3268,7 @@ chef, don’t you know? That’s the ugliest animal in all Africa.”
 
 The chef looked apoplectic… . “I don’t care a dime foh all you nigger
 waiters and I ain’t joking wif any of you. Cause you manicuring you’
-finger nails and rubbing up you\* stinking black hide against white
+finger nails and rubbing up you’ stinking black hide against white
 folks in that theah diner, you all think youse something. But lemme tell
 you straight, you ain’t nothing atall.”
 
@@ -4058,7 +4058,7 @@ Ray laughed until tears trickled down his
 
 cheeks… . He visualized Jake being ashamed and laughed again.
 
-“Sure,” said Jake. “I’d feel ashame\* ef a chippie—No, chappie, them
+“Sure,” said Jake. “I’d feel ashame’ ef a chippie—No, chappie, them
 stuff is foh you book fellahs. I runs around all right, but Ise lak a
 sailor that don’t know nothing about using a compass, but him always
 hits a safe port.”
@@ -4541,7 +4541,7 @@ in the hall… .
 
 “Here you is, boh. Whether youse well or sick, them’s after you.”
 
-“Is they? Lemme see. Hm … Philly.” . \* .
+“Is they? Lemme see. Hm … Philly.” ...
 
 “Who is you’ pen-pusher?” asked Billy.
 
@@ -5699,7 +5699,7 @@ But the sharks won’t puke him up.
 
 Oh, ring the bell again.
 
-“Empty is you\* room,
+“Empty is you’ room,
 
 Empty is you’ room,
 
@@ -5803,7 +5803,7 @@ Buy him spats and feed him cream,
 
 Keep him strutting fine and dandy.
 
-Tell me, pa-pa, Ise you\* ma-ma,
+Tell me, pa-pa, Ise you’ ma-ma,
 
 Yaller gal can’t make you fall,
 
@@ -5830,7 +5830,7 @@ But mah chocolate turns her down,
 
 Sweeter than his loving brown.
 
-Telli me, pa-pa, Ise you\* ma-ma,
+Telli me, pa-pa, Ise you’ ma-ma,
 
 Yaller gal can’t make you fall,
 
@@ -5867,7 +5867,7 @@ just theah in the lav’try. Come quick. I don’t want him to ketch us.”
 And the flustered little brown heart hustled Jake down the stairs and
 out of the Sheba Palace.
 
-“Tell me, pa-pa, Ise you\* ma-ma …”
+“Tell me, pa-pa, Ise you’ ma-ma …”
 
 The black shouting chorus pursued them outside.
 
@@ -6048,7 +6048,7 @@ other girl seemed to endow him again with virility… . After keeping him
 in Panama and bringing him to New York, the laundress hesitated about
 turning her male loose in Harlem, although he was apparently of no more
 value to her. But his rejuvenating experience with the younger girl had
-infuriated the laundress\* A sister worker from Alabama, to whom she had
+infuriated the laundress. A sister worker from Alabama, to whom she had
 confided her secret tragedy, had hinted: “Lawdyl sistah, that sure
 sounds phony-like. Mebbe you’ man is jest playing ‘possum with you.” And
 the laundress was crazy with suspicion and jealousy and a feeling for
@@ -6243,7 +6243,7 @@ seldom went.
 
 The sports editor of Colored Life was also there, with a prominent Negro
 pianist. It was rumored that Bert Williams might drop in after midnight
-Madame Mulberry was certain he would\*
+Madame Mulberry was certain he would.
 
 James Reese Europe, the famous master of jazz, was among a group of
 white admirers. He had just returned from France, full of honors, with
@@ -6641,7 +6641,7 @@ Jake and Felice squeezed a way in among the jazzers. They were all drawn
 together in one united mass, wriggling around to the same primitive,
 voluptuous rhythm.
 
-Tell me, pa-pa, Ise you\* ma-ma… .
+Tell me, pa-pa, Ise you’ ma-ma… .
 
 Haunting rhythm, mingling of naive wistfulness and charming gayety, now
 sheering over into mad riotous joy, now, like a jungle mask, strange,
@@ -6657,7 +6657,7 @@ frighten and repel refined souls, because they are too intensely real,
 just as a simple savage stands dismayed before nice emotions that he
 instantly perceives are false.
 
-Tell me, pa-pa, Ise you\* ma-ma… .
+Tell me, pa-pa, Ise you’ ma-ma… .
 
 Jake was the only guest left in the Baltimore. The last wriggle was
 played. The waiters were picking up things and settling accounts,
