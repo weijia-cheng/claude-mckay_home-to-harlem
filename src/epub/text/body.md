@@ -1,5 +1,6 @@
-I
--
+## First Part
+### I
+#### Going Back Home
 
 All that Jake knew about the freighter on which he stoked was that it
 stank between sea and sky. He was working with a dirty Arab crew. The
@@ -156,12 +157,8 @@ waiting for the brown boys that done show their mettle over there. Take
 me home, Mister Ship. Put your beak right into that water and jest move
 along.” …
 
-<span id="index_split_015.html"></span>
-
-ARRIVAL
--------
-
 ### II
+#### Arrival
 
 Jake was paid off. He changed a pound note he had brought with him. He
 had fifty-nine dollars. From South Ferry he took an express subway train
@@ -294,12 +291,8 @@ was scrawled in pencil:
 
 “Just a little gift from a baby girl to a honey boy!”
 
-<span id="index_split_016.html"></span>
-
-ZEDDY
------
-
 ### III
+#### Zeddy
 
 Great balls of fire! Looka here! See mah luck!” Jake stopped in his
 tracks … went on … stopped again … retraced his steps … checked himself.
@@ -500,12 +493,8 @@ grand Ah-Ah I is. Feet in mah hands! Take me back to the Baltimore
 tonight. I ain’t gwine to know no peace till I lay these here hands on
 mah tantalizing brown again.”
 
-<span id="index_split_017.html"></span>
-
-CONGO ROSE
-----------
-
 ### IV
+#### Congo Rose
 
 All the old cabarets were going still. Connor’s was losing ground. The
 bed of red roses that used to glow in the ceiling was almost dim now.
@@ -803,12 +792,8 @@ womens and never will. I always works.”
 “I don’t care what you do whilst you is mah man. But hard work’s no good
 for a sweet-loving papa.”
 
-<span id="index_split_018.html"></span>
-
-ON THE JOB AGAIN
-----------------
-
 ### V
+#### On the Job Again
 
 Jake stayed on in Rose’s room. He could not feel about her as he did for
 his little lost maroon-brown of the Baltimore. He went frequently to the
@@ -1085,12 +1070,8 @@ moods, golden moods. Curious, syncopated slipping-over into one mood,
 back-sliding back to the first mood. Humming in harmony, barbaric
 harmony, joy-drunk, chasing out the shadow of the moment before.
 
-<span id="index_split_019.html"></span>
-
-MYRTLE AVENUE
--------------
-
 ### VI
+#### Myrtle Avenue
 
 Zeddy was excited over Jake’s success in love. He thought how often he
 had tried to make up to Rose, without succeeding. He was crazy about
@@ -1465,12 +1446,8 @@ their heads.
 “Myrtle Avenue,” murmured Jake. “Pretty name, all right, but it stinks
 like a sewer. Legs and feets! Come take me outa it back home to Harlem.”
 
-ZEDDY’S RISE AND FALL
-
-<span id="index_split_020.html"></span>
-
-VII
----
+### VII
+#### Zeddy’s Rise and Fall
 
 Zeddy was scarce in Harlem. And Strawberry Lips was also scarce. It was
 fully a week after the Myrtle Avenue gin-fest before Jake saw Zeddy
@@ -2063,12 +2040,8 @@ Zeddy picked up his suitcase. “Come on, Mistah Bag. Le’s tail along back
 to Harlem. Leave black woman ‘lone wif her gin and ugly mug. Black woman
 is hard luck.”
 
-<span id="index_split_021.html"></span>
-
-THE RAID OF THE BALTIMORE
--------------------------
-
 ### VIII
+#### The Raid of the Baltimore
 
 The blazing lights of the Baltimore were put out and the entrance was
 padlocked. Fifth Avenue and Lenox talked about nothing else. Buddy
@@ -2242,12 +2215,8 @@ For a long time Negro proprietors would not admit white customers into
 their cabarets and near-white members of the black race, whose features
 were unfamiliar in Harlem,.had a difficult time proving their identity.
 
-<span id="index_split_022.html"></span>
-
-JAKE MAKES A MOVE
------------------
-
 ### IX
+#### Jake Makes a Move
 
 Coming home from work one afternoon, Jake remarked a taxicab just
 driving away from his house. He was quite a block off, but he thought it
@@ -2401,17 +2370,9 @@ The door closed on him… .
 his clothes out of the closet, picked up the crumpled things from the
 couch, packed, and walked out with his suitcase.
 
-<span id="index_split_023.html"></span>
-
-SECOND PART
------------
-
-### THE RAILROAD
-
-<span id="index_split_024.html"></span>
-
-X
--
+## Second Part
+### X
+#### The Railroad
 
 Over the heart of the vast gray Pennsylvania country the huge black
 animal snorted and roared, with sounding rods and couplings, pulling a
@@ -2760,12 +2721,8 @@ called him to do something in the kitchen.
 The great black animal whistled sharply and puff-puffed slowly into the
 station of Pittsburgh.
 
-<span id="index_split_025.html"></span>
-
-SNOWSTORM IN PITTSBURGH
------------------------
-
 ### XI
+#### Snowstorm in Pittsburgh
 
 The middle of the little bridge built over the railroad crossing he was
 suddenly enveloped in a thick mass of smoke spouted out by an in-rushing
@@ -3163,12 +3120,8 @@ steward, and Ray was taken to the hospital.
 “We may all be niggers aw’right, but we ain’t nonetall all the same,”
 Jake said as he hurried along to the dining-car, thinking of Ray.
 
-<span id="index_split_026.html"></span>
-
-THE TREEING OF THE CHEF
------------------------
-
 ### XII
+#### The Treeing of the Chef
 
 Perhaps the chef of Jake’s dining-car was the most hated chef in the
 service. He was repulsive in every aspect From the elevated bulk of his
@@ -3702,12 +3655,8 @@ white man’s service. He was riding too high and fly, brother. I knew he
 would tumble and bust something nasty. But I ain’t said I knowed a thing
 about it, all the same.”
 
-<span id="index_split_027.html"></span>
-
-ONE NIGHT IN PHILLY
--------------------
-
 ### XIII
+#### One Night in Philly
 
 One night in Philadelphia Jake breezed into the waiters’ quarters in
 Market Street, looking for Ray. It was late. Ray was in bed. Jake pulled
@@ -4051,12 +4000,8 @@ too late now. We gotta start work.”
 Jake swung himself up by the rear platform and entered the kitchen. Ray
 passed round by the other side into the dining-room.
 
-<span id="index_split_028.html"></span>
-
-INTERLUDE
----------
-
 ### XIV
+#### Interlude
 
 Dusk gathered in blue patches over the Black Belt. Lenox Avenue was
 vivid. The saloons were bright, crowded with drinking men jammed tight
@@ -4350,12 +4295,8 @@ once. And when the landlady opened the door and saw Jake supported
 between two men, she knew that the broken white bowl was for him and
 that his time was come.
 
-<span id="index_split_029.html"></span>
-
-RELAPSE
--------
-
 ### XV
+#### Relapse
 
 Billy Biasse telephoned to the doctor, a young chocolate-complexioned
 man. He was graduate of a Negro medical college in Tennessee and of
@@ -4557,17 +4498,10 @@ ward of Bellevue, where youths lolled sadly about? And the misery that
 overwhelmed him there, until life appeared like one big disease and the
 world a vast hospital?
 
-<span id="index_split_030.html"></span>
-
-A PRACTICAL PRANK
------------------
-
 ### XVI
+#### A Practical Prank
 
-<span id="index_split_031.html"></span>
-
-MY DEAR HONEY-STICK
--------------------
+My Dear Honey-Stick
 
 “I was riding in Fairmount Park one afternoon, just taking the air as
 usual, when I saw your proper-speaking friend with a mess of books. He
@@ -4907,12 +4841,8 @@ and colored without point or purpose.”
 
 “All right,” said Ray. “I’ll tell it”
 
-<span id="index_split_032.html"></span>
-
-HE ALSO LOVED
--------------
-
 ### XVII
+#### He Also Loved
 
 It was in the winter of 1916 when I first came to New York to hunt for a
 job. I was broke. I was afraid I would have to pawn my clothes, and it
@@ -5247,12 +5177,8 @@ Jerco had cut his throat and was lying against the bowl of the
 water-closet. Some empty coke papers were on the floor. And he sprawled
 there like a great black boar in a mess of blood.
 
-<span id="index_split_033.html"></span>
-
-A FAREWELL FEED
----------------
-
 ### XVIII
+#### A Farewell Feed
 
 Ray and Grant had found jobs on a freighter that was going down across
 the Pacific to Australia and from there to Europe. Ray had reached the
@@ -5507,17 +5433,9 @@ Later they went to Leroy’s Cabaret… .
 
 The next afternoon the freighter left with Ray signed on as a mess boy.
 
-<span id="index_split_034.html"></span>
-
-THIRD PART
-----------
-
-### SPRING IN HARLEM
-
-<span id="index_split_035.html"></span>
-
-XIX
----
+## Third Part
+### XIX
+#### Spring in Harlem
 
 The lovely trees of Seventh Avenue were a vivid flame-green. Children,
 lightly clad, skipped on the pavement Light open coats prevailed and the
@@ -5962,12 +5880,8 @@ when I seen you.”
 “And there ain’t no nigger in the wuF I wouldn’t ditch foh you, daddy. O
 Lawdy! How Ise been crazy longing to meet you again.”
 
-<span id="index_split_036.html"></span>
-
-FELICE
-------
-
 ### XX
+#### Felice
 
 “Whar’s we gwine?” Jake asked.
 
@@ -6261,12 +6175,8 @@ intent on being amused, are watching their antics from an upper window.
 It was quite a little funny and the audience enjoyed it. Maybe that was
 the stuff the Black Belt wanted.
 
-<span id="index_split_037.html"></span>
-
-THE GIFT THAT BILLY GAVE
-------------------------
-
 ### XXI
+#### The Gift That Billy Gave
 
 We gotta celebrate to-night,” said Felice when Saturday came round
 again. Jake agreed to do anything she wanted. Monday they would have to
