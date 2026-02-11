@@ -1195,6 +1195,8 @@ had said.
 “Well, that’s the trute, but we all of us drinks it. And I loves to have
 company in mah house, plenty of company.”
 
+---
+
 But when Susy came home from work one evening and found that her latest
 “yaller” sweetie had stolen her suitcase and best dresses and pawned
 even her gas range, she resolved never to keep another of his kind as a
@@ -1335,7 +1337,7 @@ of spending a sociable evening between ladies and gentlemen.”
 “Got to show me,” said Jake, simply because the popular phrase intrigued
 his tongue.
 
-”And that I can.”
+”*And that I can.*”
 
 Irritated, Jake turned to move away.
 
@@ -1350,7 +1352,7 @@ about the aim and meaning and fulfillment of life; uncertain and
 indeterminate; weak. Rude children who loved excelling in spectacular
 acts to win the applause of women.
 
-But women were so realistic and straightgoing. They were the real
+But women were so realistic and straightgoing. *They* were the real
 controlling force of life. Jake remembered the bal-musette fights
 between colored and white soldiers in France. Blacks, browns, yellows,
 whites… . He remembered the interracial sex skirmishes in England. Men
@@ -1710,6 +1712,8 @@ same life even ef they drink champagne and we drink gin.”
 
 “You said it and said it right,” responded Miss Curdy.
 
+---
+
 Zeddy discovered that in his own circles in Harlem he had become
 something of a joke. It was known that he was living sweet. But his
 buddies talked about his lady riding him with a cruel bit.
@@ -1823,39 +1827,24 @@ toward the ceiling in a sort of savage ecstatic dream. Fiddler,
 saxophonist, drummer, and cymbalist seemed to catch their inspiration
 from him… .
 
-When Luty dances, everything
+> When Luty dances, everything<br/>
+> Is dancing in the cabaret.<br/>
+> The second fiddle asks the first:<br/>
+> What makes you sound that funny way?<br/>
+> The drum talks in so sweet a voice,<br/>
+> The cymbal answers in surprise,<br/>
+> The lights put on a brighter glow<br/>
+> To match the shine of Luty’s eyes.
 
-Is dancing in the cabaret.
-
-The second fiddle asks the first:
-
-What makes you sound that funny way?
-
-The drum talks in so sweet a voice,
-
-The cymbal answers in surprise,
-
-The lights put on a brighter glow
-
-To match the shine of Luty’s eyes.
-
-For he’s a foot-manipulating fool
-
-When he hears that crazy moan
-
-Come rolling, rolling outa that saxophone… .
-
-Watch that strut; there’s no keeping him cool
-
-When he’s a-rearing with that saxophone… .
-
-Oh, the tearing, tantalizing tone!
-
-Of that moaning saxophone… .
-
-That saxophone… .
-
-That saxophone… .
+> For he’s a foot-manipulating fool<br/>
+> When he hears that crazy moan<br/>
+> Come rolling, rolling outa that saxophone… .<br/>
+> Watch that strut; there’s no keeping him cool<br/>
+> When he’s a-rearing with that saxophone… .<br/>
+> Oh, the tearing, tantalizing tone!<br/>
+> Of that moaning saxophone… .<br/>
+> That saxophone… .<br/>
+> That saxophone… .
 
 They danced, Rose and the boy. Oh, they danced! An exercise of
 rhythmical exactness for two. There was no motion she made that he did
@@ -1872,15 +1861,11 @@ and returned to the ceiling. Lean, smart fingers beating barbaric beauty
 out of a white frame. Brown bodies, caught up in the wild rhythm,
 wiggling and swaying in their seats.
 
-For he’s a foot-manipulating fool
-
-When he hears that crazy moan
-
-Come rolling, rolling outa that saxophone… .
-
-That saxophone… .
-
-That saxophone… .
+> For he’s a foot-manipulating fool<br/>
+> When he hears that crazy moan<br/>
+> Come rolling, rolling outa that saxophone… .<br/>
+> That saxophone… .<br/>
+> That saxophone… .
 
 Rose was sipping her White Rock. Her partner, at Billy’s table, sucked
 his iced creme-de-menthe through a straw. The high wave of joyful
@@ -1985,7 +1970,7 @@ and then shuffle along back home. It’s good and quiet ovah in Brooklyn.”
 
 “Brooklyn ain’t no better than Harlem,” said Strawberry Lips, running
 the words rolling off his tongue. “Theah’s as much shooting-up and
-cut-up in Prince Street and “
+cut-up in Prince Street and—”
 
 “There ain’t no compahrison atall,” stoutly maintained Susy. “This here
 Harlem is a stinking sink of iniquity. Nigger hell! That’s what it is.
@@ -1995,6 +1980,8 @@ monkey-chasing womens this-anight. But that I wouldn’t do. I ain’t a
 woman abandoned to sich publicity stunts. Not even though mah craw was
 full to bursting. Lemme see’m tonight… . Yessam, this heah Harlem is
 sure nigger hell. Take me way away from it.”
+
+---
 
 When Zeddy at last said good night to his new-found brown, he went
 straight to an all-night barrel-house and bought a half a pint of
@@ -2134,28 +2121,27 @@ rendering the greatest ragtime song of the day. Broadway was wild about
 it and Harlem was crazy. All America jazzed to it, and it was already
 world-famous. Already being jazzed perhaps in Paris and Cairo, Shanghai,
 Honolulu, and Java. It was a song about cocktails and cherries. Like
-this in some ways: Take a juicy cocktail cherry,
+this in some ways: 
 
-Take a dainty little bite, And we’ll all be very merry
+> Take a juicy cocktail cherry,<br/>
+> Take a dainty little bite, <br/>
+> And we’ll all be very merry<br/>
+> On a cherry drunk tonight. 
 
-On a cherry drunk tonight. We’ll all be merry when you have a cherry,
+> We’ll all be merry when you have a cherry,<br/>
+> And we’ll twine and twine like a fruitful vine, <br/>
+> Grape vine, red wine, babe mine, bite a berry,<br/>
+> You taste a cherry and twine, rose vine, sweet wine.<br/>
+> Cherry-ee-ee-ee-ee, cherry-ee-ee-ee-ee-ee, ee-ee-ee<br/>
+> Cherry-ee-ee-ee-ee, cherry-ee-ee-ee-ee-ee, ee-ee-ee<br/>
+> Grape vine, rose vine, sweet wine… .
 
-And we’ll twine and twine like a fruitful vine, Grape vine, red wine,
-babe mine, bite a berry,
+> Love is like a cocktail cherry,<br/>
+> Just a fruity little bit, <br/>
+> And you’ve never yet been merry,<br/>
+> If you’ve not been drunk on it.
 
-You taste a cherry and twine, rose vine, sweet wine.
-
-Cherry-ee-ee-ee-ee, cherry-ee-ee-ee-ee-ee, ee-ee-ee
-
-Cherry-ee-ee-ee-ee, cherry-ee-ee-ee-ee-ee, ee-ee-ee
-
-Grape vine, rose vine, sweet wine… .Love is like a cocktail cherry,
-
-Just a fruity little bit, And you’ve never yet been merry,
-
-If you’ve not been drunk on it.
-
-We’ll all be merry when you have… .
+> We’ll all be merry when you have… .
 
 The women, carried away by the sheer rhythm of delight, had risen above
 their commercial instincts (a common trait of Negroes in emotional
@@ -2164,7 +2150,7 @@ gorgeous animals swaying there through the dance, punctuating it with
 marks of warm physical excitement. The atmosphere was charged with
 intensity and over-charged with currents of personal reaction… .
 
-Then thefiveyoung white men unmasked as the Vice Squad and killed the
+Then the five young white men unmasked as the Vice Squad and killed the
 thing.
 
 Dicks! They had wooed and lured and solicited for their trade. For two
@@ -2181,7 +2167,11 @@ the wary boss of the Baltimore that they were fine fellows. The boss was
 a fine fellow himself, who loved life and various forms of fun and had
 no morals about them. And so one night when the trio had left their
 hired white ladies behind, he was persuaded to give his youthful white
-guests an introduction to Madame Adeline Suarez’s buffet flat… . The
+guests an introduction to Madame Adeline Suarez’s buffet flat… . 
+
+---
+
+The
 uniformed police were summoned. Madame Suarez and her clients were
 ordered to get ready to go down to the Night Court. The women asked
 permission to veil themselves. Many windows were raked up in the block
@@ -2302,6 +2292,8 @@ but that hussy jest made me do it … jest made me… . Well, I’d better
 pull outa that there mud-hole… . It wasn’t what I come back to Gawd’s
 own country foh. No, sirree! You bet it wasn’t… .”
 
+---
+
 When he returned to the house he heard laughter in the room. Gertie
 Blake was there and Rose was telling a happy tale. He stood by the
 closed door and listened for a while.
@@ -2314,7 +2306,7 @@ When I corned to I wanted to kiss his feet, but he was gone.”
 
 “Didn’t hurt enough. Honey, it’s the first time I ever felt his real
 strength. A hefty-looking one like him, always acting so nice and
-proper. I almost thought he was getting sissy. But he’s a ma-an all
+proper. I almost thought he was getting sissy. But he’s a *ma-an* all
 right… .”
 
 A nasty smile stole into Jake’s features. He could not face those women.
@@ -2346,6 +2338,8 @@ voice.
 
 “Hell with them! I love mah daddy moh’n anything. And mah daddy loves
 me, don’t he? Daddy!”
+
+---
 
 Rose switched on the light and looked at her watch.
 
@@ -2382,7 +2376,7 @@ them. In his oily, shining face his big white eyes danced with meanness.
 All the waiters had squeezed into the pantry at once, excitedly
 snatching, dropping and breaking things.
 
-“Hey, you there! You mule!” x The chef shouted at the fourth waiter.
+“Hey, you there! You mule!”<a href="endnotes.xhtml#note-1" id="noteref-1" epub:type="noteref">1</a> The chef shouted at the fourth waiter.
 “Who told you to snitch that theah lamb chops outa the hole?”
 
 “I done think they was the one I ordered “
@@ -2446,8 +2440,10 @@ smooth pure ebony with straight features and a suggestion of whiskers.
 Jake shuffled up to him and asked him for the loan of two dollars. He
 got it and went to play… .
 
+---
+
 Jake finished playing with five dollars. He repaid the waiter and said:
-“Youse a good sport. I’ll always look out for you in that theah hole.11
+“Youse a good sport. I’ll always look out for you in that theah hole.”
 
 The waiter smiled. He was very friendly. Jake half-sprawled over the
 table. “Wha’s this here stuff you reading? Looks lak Greek to me.” He
@@ -2456,7 +2452,7 @@ spelled the title, “S-A-P-H-O, Sapho.”
 “What’s it all about?” Jake demanded, flattening down the book on the
 table with his friendly paw. The waiter was reading the scene between
 Fanny and Jean when the lover discovers the letters of his mistress’s
-former woman friend and exclaims: “Ah Out … Sapho … toute la lyre… .”
+former woman friend and exclaims: “Ah *Oui … Sapho … toute la lyre.* …”
 
 “It’s a story,” he told Jake, “by a French writer named Alphonse Daudet.
 It’s about a sporting woman who was beautiful like a rose and had the
@@ -2468,7 +2464,7 @@ but I hate the use of Sapho for its title.”
 “Because Sappho was a real person. A wonderful woman, a great Greek poet
 “
 
-“So theah is some Greek in the bookl” said Jake.
+“So theah *is* some Greek in the bookl” said Jake.
 
 The waiter smiled. “In a sense, yes.”
 
@@ -2489,15 +2485,16 @@ sea from the Leucadian cliflf because of her love for him.
 “Tha’s what we calls bulldyker in Harlem,” drawled Jake. “Them’s all
 ugly womens.”
 
-“Not all. And that’s a damned ugly name,” the waiter said. “Harlem is
-too savage about some things. Bulldyker” the waiter stressed with a
+“Not *all*. And that’s a damned ugly name,” the waiter said. “Harlem is
+too savage about some things. *Bulldyker*,” the waiter stressed with a
 sneer.
 
 Jake grinned. “But tha’s what they is, ain’t it?”
 
-He began humming: “And there is two things in Harlem I don’t understan’
+He began humming: 
 
-It is a bulldyking woman and a faggoty man… .”
+> “And there is two things in Harlem I don’t understan’<br/>
+> It is a bulldyking woman and a faggoty man… .”
 
 Charmingly, like a child that does not know its letters, Jake turned the
 pages of the novel… .
@@ -2512,24 +2509,24 @@ asked him what it meant, he grinned and said, “Ask the monks.”
 
 “You know French?” the waiter asked.
 
-“Parlee-vous? Mademoiselle, un baiser, s’il vous plait. Voilat I larned
+“*Parlee-vous? Mademoiselle, un baiser, s’il vous plait. Voilà!* I larned
 that much offn the froggies.”
 
 “So you were over there?”
 
-“Au oui, camarade” Jake beamed. “I was way, way ovah there after
+“*Au oui, camarade*,” Jake beamed. “I was way, way ovah there after
 Democracy and them boches, and when I couldn’t find one or the other, I
 jest turned mah black moon from the A. E. F… . But you! How come you
 jest plowing through this here stuff lak that? I could nevah see no
-light at all in them print, chappie. Eh bien. Mais vous compris
-beaucoup”
+light at all in them print, chappie. *Eh bien. Mais vous compris
+beaucoup.*”
 
-“C’est ma langue maternelle”
+“*C’est ma langue maternelle.*”
 
-“Hm!” Jake made a face and scratched his head. “Comprendre pas, chappie.
+“Hm!” Jake made a face and scratched his head. “*Comprendre pas*, chappie.
 Tell me in straight United States.”
 
-“French is my native language. I “
+“French is my native language. I—”
 
 “Don’t crap me,” Jake interrupted. “Ain’tchu—ain’tchu one of us, too?”
 
@@ -2579,33 +2576,20 @@ the wonderful, passionate lines.”
 
 He quoted Wordsworth’s sonnet.
 
-“Toussaint, the most unhappy Man of Men!
-
-Whether the whistling Rustic tend his plough
-
-Within thy hearing, or thy head be now
-
-Pillowed in some deep dungeon’s earless den;—
-
-Oh miserable Chieftain! Where and when
-
-Wilt thou find patience? Yet die not; do thou
-
-Wear rather in thy bonds a cheerful brow:
-
-Though fallen Thyself never to rise again,
-
-Live, and take comfort. Thou hast left behind
-
-Powers that will work for thee, air, earth, and skies;
-
-There’s not a breathing of the common wind
-
-That will forget thee; thou hast great allies;
-
-Thy friends are exultations, agonies,
-
-And love, and Man’s unconquerable Mind.”
+> “Toussaint, the most unhappy Man of Men!<br/>
+> Whether the whistling Rustic tend his plough<br/>
+> Within thy hearing, or thy head be now<br/>
+> Pillowed in some deep dungeon’s earless den;—<br/>
+> Oh miserable Chieftain! Where and when<br/>
+> Wilt thou find patience? Yet die not; do thou<br/>
+> Wear rather in thy bonds a cheerful brow:<br/>
+> Though fallen Thyself never to rise again,<br/>
+> Live, and take comfort. Thou hast left behind<br/>
+> Powers that will work for thee, air, earth, and skies;<br/>
+> There’s not a breathing of the common wind<br/>
+> That will forget thee; thou hast great allies;<br/>
+> Thy friends are exultations, agonies,<br/>
+> And love, and Man’s unconquerable Mind.”
 
 Jake felt like one passing through a dream, vivid in rich, varied
 colors. It was revelation beautiful in his mind. That brief account of
@@ -2758,6 +2742,8 @@ counter; “it’s fresh.”
 She looked straight in his eyes. “All right, I’ll try peach,” he said,
 and, magnetically, his long, shining fingers touched her hand… .
 
+---
+
 In the evening he found the Haytian waiter at the big Wiley Avenue
 pool-room. Quite different from the pool-rooms in Harlem, it was a sort
 of social center for the railroad men and the more intelligent black
@@ -2801,8 +2787,8 @@ as Ise more’n third cook. Ev’body calls me Jake. And you?”
 
 “Raymond, but everybody calls me Ray.”
 
-Jake heaved off. Ray bought some weekly Negro newspapers: The Pittsburgh
-Courier, The Baltimore American, The Negro World, The Chicago Defender.
+Jake heaved off. Ray bought some weekly Negro newspapers: *The Pittsburgh
+Courier*, *The Baltimore American*, *The Negro World*, *The Chicago Defender*.
 Here he found a big assortment of all the Negro publications that he
 never could find in Harlem. In a next-door saloon he drank a glass of
 sherry and started off for the waiters’ and cooks’ quarters.
@@ -2912,6 +2898,8 @@ He took another whisky and went like a lean hound after Happy. Jake
 looked mischievously at the little brown door, remarking: “It’s a great
 life ef youse in on it.” …
 
+---
+
 The light-yellow came back with a cold gleam in his eyes, like arsenic
 shining in the dark. His features were accentuated by a rigid,
 disturbing tone and he resembled a smiling wax figure.
@@ -2930,10 +2918,10 @@ fellows, kneeling in the sawdust, were rolling the square bones.
 Others sat together around two tables with a bottle of red liquor and
 thimble-like glasses before them,
 
-“Oh, boy I” one said. “When I get home tonight it will be some more
+“Oh, boy!” one said. “When I get home tonight it will be some more
 royal stuff. I ain’ta gwine to work none ‘tall tomorrow,”
 
-“Shucks I” Another spread away his big mouth. “This heah ain’t nothing
+“Shucks!” Another spread away his big mouth. “This heah ain’t nothing
 foh a fellow to turn royal loose on. I remimber when I was gwine with a
 money gang that hed no use foh nothing but the pipe. That theah time was
 life, buddy.”
@@ -2965,6 +2953,8 @@ Jake tapped his head.
 “Awright, anything you say, chappie. I kain sleep through worser
 things.” Jake took a few of the little white packets from Happy and gave
 him some money. “Guess I might need them some day. You never know.”
+
+---
 
 Jake fell asleep as soon as his head touched the dirty pillow. Below
 him, Ray lay in his bunk, tormented by bugs and the snoring cooks. The
@@ -3054,9 +3044,11 @@ a wild orgy of mockery! …
 He was in the middle of a world suspended in space. A familiar line lit
 up, like a flame, the vast, crowded, immensity of his vision.
 
-Et tame du monde est dans tair.
+> Et l’âme du monde est dans l’air.
 
 A moment’s respite… .
+
+---
 
 A loud snore from the half-naked chef brought him back to the filthy
 fact of the quarters that the richest railroad in the world had provided
@@ -3142,7 +3134,7 @@ wife and a brown boy-child in New York and he never slipped away any of
 the company’s goods to them. Other dining-car men had devised a system
 of getting by the company’s detectives with choice brands of the
 company’s foodstuffs. The chef kept away from that. It was long since
-the yard detectives had stopped search-ing any parcel that he carried
+the yard detectives had stopped search-ing any parcel that *he* carried
 off with him.
 
 “I don’t want none o’ the white-boss stuff foh mine,” he declared. “Ise
@@ -3209,6 +3201,8 @@ regulation, had a grievance against the chef and was just waiting to
 “get” him. But, the chef being such a paragon, the “getting” was not
 easy.
 
+---
+
 Nothing can be worse on a dining-car than trouble between the pantry and
 the kitchen, for one is as necessary to the other as oil is to salad.
 But the war was covertly on and the chef was prepared to throw his whole
@@ -3225,7 +3219,7 @@ waiter, but he was too timid to do it… .
 
 The dining-car was resting on the tracks in the Altoona yards, waiting
 for a Western train. The first, third, and fifth waiters were playing
-poker. Ray was reading Dostoievski’s Crime and Punishment. The fourth
+poker. Ray was reading Dostoievski’s *Crime and Punishment*. The fourth
 waiter was working in the pantry. Suddenly the restaurant-car was
 shocked by a terrible roar.
 
@@ -3395,6 +3389,8 @@ Jake laughed. “What won’t a bad nigger do when he’s good and mean way
 down in his heart? I ain’t ‘lowing mahself careless with none o’ that
 kind, chappie.”
 
+---
+
 Two Pullman porters came into the diningcar in the middle of the
 waiters’ meal.
 
@@ -3416,6 +3412,8 @@ thanked him and said they had more than enough and that the food was
 wonderful. The chef smiled broadly. He beamed upon steward, waiters, and
 porters, and his eyes said: See what a really fine fellow I am in spite
 of all the worries that go with the duties of a chef?
+
+---
 
 One day Ray saw the chef and the pantryman jesting while the pantryman
 was lighting his cigarette from the chef’s stump of cigar. When Ray
@@ -3489,11 +3487,15 @@ steward wanted to go directly home. But he had to wait and go over to
 the yards with the keys, so that the pantryman could ice up. And the
 pantryman was scr verely reprimanded for his laxity in Washington… .
 
+---
+
 The pantryman bided his time, waiting on the chef. He was cordial. He
 even laughed at the jokes the chef made at the other waiters’ expense.
 The chef swelled bigger in his hide, feeling that everything had bent to
 his will. The pantryman waited, ignoring little moments for the big
 moment. It came.
+
+---
 
 One morning both the second and the fourth cook “fell down on the job,”
 neither of them reporting for duty. The steward placed an order with the
@@ -3533,6 +3535,8 @@ her.
 In that moment the pantryman made a lightning-bolt move; and shut down
 the little glass door between the pantry and the kitchen… .
 
+---
+
 The train was speeding its way west The first call for dinner had been
 made and the dining-room was already full. Over half a dozen calls for
 eggs of different kinds had been bawled out before the chef discovered
@@ -3542,7 +3546,7 @@ Pandemonium was loose in the pantry and kitchen when the steward,
 radish-red, stuck his head in.
 
 The chef’s lower lip had flopped low down, dripping, and the cigar had
-fallen somewhere. “Cut them aiggs off o’ the bill, Sah Farrel. O Lawd I”
+fallen somewhere. “Cut them aiggs off o’ the bill, Sah Farrel. O Lawd!”
 he moaned, “Ise sartain sure I brought them aiggs on the car mahself,
 and now I don’t know where they is.”
 
@@ -3551,8 +3555,8 @@ in the kitchen. I saw them with the stock meself.”
 
 “And I brought them here hugging them, Boss, ef I ain’t been made fool
 of by something.” The rhinoceros had changed into a meek black lamb. “O
-Lawd 1 and I ain’t been outa the kitchen sence. Ain’t no mortal hand
-could tuk them. Some evil hand. O Lawd! “
+Lawd! and I ain’t been outa the kitchen sence. Ain’t no mortal hand
+could tuk them. Some evil hand. O Lawd!—”
 
 “Helll” The steward dashed out of the pantry to cut all the egg dishes
 off the bill. The passengers were getting clamorous. The waiters were
@@ -3608,10 +3612,14 @@ You can’t start fighting the waiters because you’ve lost the eggs.”
 
 The steward slipped out of the pantry without another word.
 
+---
+
 The steward obtained a supply of eggs in Harrisburg the next morning.
 The rest of the trip was made with the most dignified formalities
 between him and the chef. Between the pantry and the chef the atmosphere
 was tenser, but there were no more explosions.
+
+---
 
 The dining-car went out on its next trip with a new chef. And the old
 chef, after standing a little of the superintendent’s notoriously sharp
@@ -3688,10 +3696,12 @@ but their mouths are loaded with filth, and that’s what gets me.”
 “Them’s different ovah there, chappie. I’ll kiss the Bible on it. Come
 on, now. It’s no fun me going alone.”
 
+---
+
 They went to a house in Fifteenth Street. As they entered Jake was
 greeted by a mulatto woman in the full vigor of middle life.
 
-“Why, you heart-breaker! It’s ages and ages since I saw you. You and me
+“Why, *you* heart-breaker! It’s ages and ages since I saw you. You and me
 sure going to have a bust-up tonight.”
 
 Jake grinned, prancing a little, as if he were going to do the old
@@ -3781,6 +3791,8 @@ The stags were still playing cards, with girls hovering over them. The
 happy-faced black woman was doing the managing, as Madame Laura was
 otherwise engaged. The pianist began banging another blues.
 
+---
+
 Ray felt alone and a little sorry for himself. Now that he was there, he
 would like to be touched by the spirit of that atmosphere and, like
 Jake, fall naturally into its rhythm. He also envied Jake. Just for this
@@ -3790,9 +3802,8 @@ They were dancing. The little yellow girl, her legs kicked out at
 oblique angles, appeared as if she were going to fall through the
 big-built black man.
 
-We’ll all be merry when you taste a cherry,
-
-And we’ll twine and twine like a fruitful vine.
+> We’ll all be merry when you taste a cherry,<br/>
+> And we’ll twine and twine like a fruitful vine.
 
 In the middle of the floor, a young railroad porter had his hand
 flattened straight down the slim, cerise-chiffoned back of a brown girl.
@@ -3887,13 +3898,10 @@ Four brown hands and one white. Chink!
 “Here’s to you, Pat,” cried Madame Laura. “There’s Irish in me from the
 male line.” She toasted:
 
-“Flixy, flaxy, fleasy,
-
-Make it good and easy,
-
-Flix for start and flax for snappy,
-
-Niggers and Irish will always be happy.”
+> “Flixy, flaxy, fleasy,<br/>
+> Make it good and easy,<br/>
+> Flix for start and flax for snappy,<br/>
+> Niggers and Irish will always be happy.”
 
 The policeman swallowed his champagne at a gulp and got up. “Gotta go
 now. Time for duty.”
@@ -3904,6 +3912,8 @@ now. Time for duty.”
 manage—“but he’s protecting me. It’s a long time since I ain’t got no
 loving inclination for any skin but chocolate. Get me?”
 
+---
+
 When Jake returned to the quarters he found Ray sleeping quietly. He did
 not disturb him. The next morning they walked together to the yards.
 
@@ -3913,7 +3923,6 @@ not disturb him. The next morning they walked together to the yards.
 
 “Oh, didn’t you see him? There was a policeman theah and somebody
 hollered ‘Raid I’ scaring everybody. I thought you’d
-
 done tuk you’self away from there in quick time becasn a that.”
 
 “No, I left before that, I guess. Didn’t even smell one walking all the
@@ -4065,9 +4074,11 @@ wither away and rot like weeds.”
 
 “Let us pray!” said Jake.
 
-“That I don’t believe in.”
+“*That* I don’t believe in.”
 
 “Awright, then, chappie.”
+
+---
 
 On the next trip, the dining-car was shifted off its scheduled run and
 returned to New York on the second day, late at night. It was ordered
@@ -4089,14 +4100,14 @@ had been living in New York for two years. Ray had met her the year
 before at a basket-ball match and dance.
 
 She went to see Jake in the afternoon. He was sitting in a Morris chair,
-reading the Negro newspaper, The Amsterdam News, with a pail of beer
+reading the Negro newspaper, *The Amsterdam News*, with a pail of beer
 beside him, when Agatha rapped on the door.
 
 Jake thought it was the landlady. He was thrown off his balance by the
 straight, beautiful girl who entered the room and quietly closed the
 door behind her.
 
-“Oh, keep your seat, please,1’ she begged him. “I’ll sit there,” she
+“Oh, keep your seat, please,” she begged him. “I’ll sit there,” she
 indicated a brown chair by the cherrywood chiffonier.
 
 “Ray asked me to come. He was doubled out this morning and couldn’t get
@@ -4176,7 +4187,7 @@ swilling and boasting, it would be a thousand times nicer to have a
 little brown woman of his own to whom he could go home and be his simple
 self with. Lay his curly head between her brown breasts and be fondled
 and be the spoiled child that every man loves sometimes to be when he is
-all alone with a woman. That he could never be with the Madame Lauras.
+all alone with a woman. *That* he could never be with the Madame Lauras.
 They expected him always to be the prancing he-man. Maybe it was the
 lack of a steady girl that kept him running crazy around. Boozing and
 poking and rooting around, jolly enough all right, but not altogether
@@ -4347,6 +4358,8 @@ little while. But it’s very dangerous if you are foolish. I know you
 chaps take those things lightly. But you shouldn’t, for the consequences
 are very dangerous.”
 
+---
+
 Two days later Ray’s diner returned to New York. It was early afternoon
 and the crew went over to the yards to get the stock for the next trip.
 And after stocking up Ray went directly to see Jake.
@@ -4381,8 +4394,7 @@ been in a chronic way for about three months.”
 week.”
 
 “Hm! …” Ray glanced carelessly through
-
-The Amsterdam News. “I saw Madame Laura in Fairmount Park and I told her
+*The Amsterdam News*. “I saw Madame Laura in Fairmount Park and I told her
 you were sick. I gave her your address, too.”
 
 “Bumbole! What for?”
@@ -4419,7 +4431,7 @@ was not happy. The sudden upset of affairs in his home country had
 landed him into the quivering heart of a naked world whose reality was
 hitherto unimaginable. It was what they called in print and polite
 conversation “the underworld.” The compound word baffled him, as some
-English words did sometimes. Why underworld he could never understand.
+English words did sometimes. Why *under*world he could never understand.
 It was very much upon the surface as were the others divisions of human
 life. Having its heights and middle and depths and secret places even as
 they. And the people of this world, waiters, cooks, chauffeurs, sailors,
@@ -4429,8 +4441,8 @@ and slept over here, divided by a street.
 
 Ray had always dreamed of writing words some day. Weaving words to make
 romance, ah! There were the great books that dominated the bright
-dreaming and dark brooding days when he was a boy. Les Miserables, Nana,
-Uncle Tom’s Cabin, David Copperfield, Nicholas Nickleby, Oliver Twist.
+dreaming and dark brooding days when he was a boy. *Les Misérables*, *Nana*,
+*Uncle Tom’s Cabin*, *David Copperfield*, *Nicholas Nickleby*, *Oliver Twist*.
 
 From them, by way of free-thought pamphlets, it was only a stride to the
 great scintillating satirists of the age—Bernard Shaw, Ibsen, Anatole
@@ -4462,10 +4474,10 @@ Dreams of patterns of words achieving form. What would he ever do with
 the words he had acquired? Were they adequate to tell the thoughts he
 felt, describe the impressions that reached him vividly? What were men
 making of words now? During the war he had been startled by James Joyce
-in The Little Review. Sherwood Anderson had reached him with Winesburg,
-Ohio. He had read, fascinated, all that D. H. Lawrence published. And
+in *The Little Review*. Sherwood Anderson had reached him with *Winesburg,
+Ohio*. He had read, fascinated, all that D. H. Lawrence published. And
 wondered if there was not a great Lawrence reservoir of words too
-terrible and too terrifying for nice printing. Henri Barbusse’s Le Feu
+terrible and too terrifying for nice printing. Henri Barbusse’s *Le Feu*
 burnt like a flame in his memory. Ray loved the book because it was such
 a grand anti-romantic presentation of mind and behavior in that hell-pit
 of life. And literature, story-telling, had little interest for him now
@@ -4495,39 +4507,31 @@ world a vast hospital?
 ### XVI
 #### A Practical Prank
 
-My Dear Honey-Stick
-
-“I was riding in Fairmount Park one afternoon, just taking the air as
-usual, when I saw your proper-speaking friend with a mess of books. He
-told me you were sick and I was so mortified for I am giving a big
-evening soon and was all set on fixing it on a night when you would
-certain sure be laying over in Philadelphia. Because you are such good
-company I may as well say how much you are appreciated here. I guess
-I’ll put it off till you are okay again, for as I am putting my hand in
-my own pocket to give all of my friends and wellwishers a dandy time it
-won’t be no fun for me if I leave out the principal one. Guess who!
-
-“I am expecting to come to New
-
-York soon on shopping bent. You
-
-know all us weak women who can
-
-afford it have got the Fifth Avenue
-
-fever, my dear. If I come I’ll sure
-
-look you up, you can bank on it
-
-“Bye, bye, honeystick and be good
-
-and quiet and better yourself soon.
-
-Philadelphia is lonesome without
-
-you.
-
-“Lovingly, LAURA.”
+> My Dear Honey-Stick
+> 
+> “I was riding in Fairmount Park one afternoon, just taking the air as
+> usual, when I saw your proper-speaking friend with a mess of books. He
+> told me you were sick and I was so mortified for I am giving a big
+> evening soon and was all set on fixing it on a night when you would
+> certain sure be laying over in Philadelphia. Because you are such good
+> company I may as well say how much you are appreciated here. I guess
+> I’ll put it off till you are okay again, for as I am putting my hand in
+> my own pocket to give all of my friends and wellwishers a dandy time it
+> won’t be no fun for *me* if I leave out the *principal* one. Guess who!
+> 
+> “I am expecting to come to New
+> York soon on shopping bent. You
+> know all us weak women who can
+> afford it have got the Fifth Avenue
+> fever, my dear. If I come I’ll sure
+> look you up, you can bank on it.
+> 
+> “Bye, bye, honeystick and be good
+> and quiet and better yourself soon.
+> Philadelphia is lonesome without
+> you.
+> 
+> “Lovingly, LAURA.”
 
 Billy Biasse, calling by Jake’s former lodging, found this letter for
 him, lying there among a pile of others, on the little black round table
@@ -4558,6 +4562,8 @@ And so Jake, in a prankish mood, replied to Madame Laura on a picture
 post-card saying he would be well and up soon and be back on the road
 and on the job again, and he gave Congo Rose’s address.
 
+---
+
 Madame Laura made her expected trip to New York, traveling “Chair,”.as
 was her custom when she traveled. She wore a mauve dress, vermilion-shot
 at the throat, and short enough to show the curved plumpness of her legs
@@ -4570,31 +4576,21 @@ foreign lady o{ title visiting New York. In the afternoon she took a
 taxi-cab to Harlem.
 
 Now all the fashionable people who called
-
 at Rose’s house were generally her friends. And so Rose always went
 herself to let them
-
 in. She could look out from her window, one
-
 flight up, and ho-ho down to them.
 
 When Madame Laura rang the bell, Rose
-
-popped her head out Nobody I know, she
-
+popped her head out. Nobody I know, she
 thought, but the attractive woman in expen-
-
 sive clothes piqued her curiosity. Hastily she
-
 dabbed her face with powder pad, patted her
-
 hair into shape, and descended.
 
-“Is Mr. Jacob Brown living here?” Ma-
+“Is Mr. Jacob Brown living here?” Madame Laura asked.
 
-dame Laura asked.
-
-“Well, he was—I mean ” This luxurious woman demanding Jake tantalized
+“Well, he was—I mean—” This luxurious woman demanding Jake tantalized
 Rose. She still referred to him as her man since his disappearance. No
 reports of his living with another woman having come to her, she had
 told her friends that Jake’s mother had come between them,
@@ -4763,7 +4759,7 @@ hard and grainy. Jake he-hawed.
 
 “Not all, chappie, I know some with sweet voice.”
 
-“Mulattrwj, mon ami.” Ray lifted a finger. “That’s an exception. And
+“Mulat*tress*, *mon ami*.” Ray lifted a finger. “That’s an exception. And
 now, James, let us forget Jake’s kind friend.”
 
 “Oh, I don’t mind him talking,” said Jake. “I don’t approve of Yaller’s
