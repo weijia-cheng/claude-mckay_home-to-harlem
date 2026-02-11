@@ -239,17 +239,17 @@ She shook her head.
 “Good,” he agreed. He was satisfied. She was responsive. She was
 beautiful. He loved the curious color on her cheek.
 
+---
+
 They went to a buffet flat on One Hundred and Thirty-seventh Street. The
 proprietress opened the door without removing the chain and peeked out.
 She was a matronly mulatto woman. She recognized the girl, who had
-
 put herself in front of Jake, and she slid back the chain and said,
 “Come right in.”
 
 The windows were heavily and carefully shaded. There was beer and wine,
 and there was plenty of hard liquor. Black and brown men sat at two
 tables in one room, playing poker. In the other room a phonograph was
-
 grinding out a “blues,” and some couples were dancing, thick as maggots
 in a vat of sweet liquor, and as wriggling.
 
@@ -262,6 +262,8 @@ shuffled around.
 but Harlem? Good old Harlem! Chocolate Harlem! Sweet Harlem! Harlem,
 I’ve got you’ number down. Lenox Avenue, you’re a bear, I know it. And,
 baby honey, sure enough youse a pippin for your pappy. Oh, boy!” …
+
+---
 
 After Jake had paid for his drinks, that fifty-dollar note was all he
 had left in the world. He gave it to the girl… .
@@ -276,6 +278,8 @@ laughter. The honey-talk on its streets. And all night long, ragtime and
 “blues” playing somewhere, … singing somewhere, dancing somewhere! Oh,
 the contagious fever of Harlem. Burning everywhere in dark-eyed Harlem…
 . Burning now in Jake’s sweet blood… .
+
+---
 
 He woke up in the morning in a state of perfect peace. She brought him
 hot coffee and cream and doughnuts. He yawned. He sighed. He was
@@ -388,7 +392,7 @@ The house of the Young Men’s Christian Association, overlooking the
 harbor, where colored soldiers were not wanted… . The central Rue de
 Siam and the point near the Prefecture of Marine, from which you could
 look down on the red lights of the Quartier Reserve. The fatal fights
-between black men and white in the maisons closes. The encounters
+between black men and white in the *maisons closes*. The encounters
 between apaches and white Americans. The French sailors that couldn’t
 get the Yankee idea of amour and menAnd the cemetery, just beyond the
 old mediaeval gate of the town, where he left his second-best buddy.
@@ -439,7 +443,7 @@ comes out of our own belonging-to-us honeycomb.”
 think made me leave over the other side? And dog mah doggone ef I didn’t
 find it just as I landed.”
 
-“K-hhhhhhh! K-hhhhhhhh 1” Zeddy laughed. “Dog mah cats! You done tasted
+“K-hhhhhhh! K-hhhhhhhh!” Zeddy laughed. “Dog mah cats! You done tasted
 the real life a’ready?”
 
 “Last night was the end of the world, buddy, and tonight ahm going back
@@ -453,6 +457,8 @@ work, Jake learned. Before he left the pool-room he and Zeddy agreed to
 meet the next evening at Uncle Doc’s.
 
 “Got to work tomorrow, boh,” Zeddy informed Jake.
+
+---
 
 “Good old New York! The same old wench of a city. Elevated racketing
 over you’ head. Subway bellowing under you’ feet. Me foh wrastling round
@@ -476,6 +482,8 @@ Spades beyond Eighth Avenue. Going, going, going Harlem! Going up! Nevah
 befoh I seed so many dickty shines in sich swell motor-cars. Plenty moh
 nigger shops. Seventh Avenue done gone highbrown. O Lawdy! Harlem
 bigger, Harlem better … and sweeter.”
+
+---
 
 “Street and streets! One Hundred and Thirty-second, Thirty-third,
 Thirty-fourth. It wasn’t One Hundred and Thirty-fifth and it wasn’t
@@ -558,31 +566,20 @@ The cabaret singer, a shiny coffee-colored girl in a green frock and
 Indian-waved hair, went singing from table to table in a man’s bass
 voice.
 
-“You wanta know how I do it,
-
-How I look so good, how I am so happy,
-
-All night on the blessed job—
-
-How I slide along making things go snappy ?
-
-It is easy to tell,
-
-I ain’t got no plan—
-
-But I’m crazy, plumb crazy
-
-About a man, mah man.
-
-“It ain’t no secret as you think,
-
-The glad heart is a state o’ mind—
-
-Throw a stone in the river and it will sink;
-
-But a feather goes whirling on the wind.
-
-It is easy to tell… .”
+> “You wanta know how I do it,<br/>
+> How I look so good, how I am so happy,<br/>
+> All night on the blessed job—<br/>
+> How I slide along making things go snappy ?<br/>
+> It is easy to tell,<br/>
+> I ain’t got no plan—<br/>
+> But I’m crazy, plumb crazy<br/>
+> About a man, mah man.
+> 
+> “It ain’t no secret as you think,<br/>
+> The glad heart is a state o’ mind—<br/>
+> Throw a stone in the river and it will sink;<br/>
+> But a feather goes whirling on the wind.<br/>
+> It is easy to tell… .”
 
 She stopped more than usual at Jake’s table. He gave her a half dollar.
 She danced a jagging jig before him that made the giggles rise like a
@@ -591,22 +588,21 @@ dandies. The dandies tightened their hold on themselves. They looked the
 favored Jake up and down. All those perfection struts for him. Yet he
 didn’t seem aroused at all.
 
-“I’m crazy, plumb crazy
-
-About a man, mah man… .”
+> “I’m crazy, plumb crazy<br/>
+> About a man, mah man… .”
 
 The girl went humming back to her seat She had poured every drop of her
 feeling into the song.
 
-“Crazy, plumb crazy about a man, mah man… .”
+> “Crazy, plumb crazy about a man, mah man… .”
 
 Dandies and pansies, chocolate, chestnut, coffee, ebony, cream, yellow,
 everybody was teased up to the high point of excitement… .
 
-“Crazy, plumb crazy about a man, mah man… .”
+> “Crazy, plumb crazy about a man, mah man… .”
 
 The saxophone was moaning it. And feet and hands and mouths were acting
-i t Dancing. Some jigged, some shuffled, some walked, and some were
+it. Dancing. Some jigged, some shuffled, some walked, and some were
 glued together swaying on the dance floor.
 
 Jake was going crazy. A hot fever was burning him up… .Where was the
@@ -628,7 +624,7 @@ The antagonists glowered at each other.
 
 “Better acks her why she done spits on mah woman.”
 
-“Woman! White man’s wench, you mean. You low-down tripe… .”
+“*Woman!* White man’s wench, you mean. You low-down tripe… .”
 
 The black man heaved toward the yellow, but the waiters hooked and
 hustled him off… . Sitting at a table, the cabaret singer was soothing
@@ -657,6 +653,8 @@ joint? I thought you would be feeding off milk and honey tonight?”
 
 “Hard luck, buddy. Done lose out counta mah own indiligence. I fohgit
 the street and the house. Thought I’d find her heah but… .”
+
+---
 
 “What you thinking ‘bout, boh?”
 
@@ -687,40 +685,29 @@ Rumor said it was a police ban. It was an old tune, so far as popular
 tunes go. But at the Congo it lived fresh and green as grass. Everybody
 there was giggling and wriggling to it.
 
-And it is ashes to ashes and dust to dust,
+> And it is ashes to ashes and dust to dust,<br/>
+> Can you show me a woman that a man can trust?
 
-Can you show me a woman that a man can trust ?
+> Oh, baby, how are you?<br/>
+> Oh, baby, what are you?<br/>
+> Oh, can I have you now,<br/>
+> Or have I got to wait?<br/>
+> Oh, let me have a date,<br/>
+> Why do you hesitate?
 
-Oh, baby, how are you ?
+> And there is two things in Harlem I don’t understan’<br/>
+> It is a bulldycking woman and a faggotty man.
 
-Oh, baby, what are you?
-
-Oh, can I have you now,
-
-Or have I got to wait?
-
-Oh, let me have a date,
-
-Why do you hesitate?
-
-And there is two things in Harlem I don’t understan’
-
-It is a bulldycking woman and a faggotty man.
-
-Congo Rose
-
-Oh, baby how are you?
-
-Oh, baby, what are you? …
+> Oh, baby how are you?<br/>
+> Oh, baby, what are you? …
 
 Jake and Zeddy picked two girls from a green bench and waded into the
 hot soup. The saxophone and drum fought over the punctuated notes. The
 cymbals clashed. The excitement mounted. Couples breasted each other in
 rhythmical abandon, grinned back at their friends and chanted:
 
-“Oh, baby, how are you?
-
-Oh, baby, what are you? …”
+> “Oh, baby, how are you?<br/>
+> Oh, baby, what are you? …”
 
 Clash! The cymbal snuffed out saxophone and drum, the dancers fell
 apart,—reeled, strutted, drifted back to their green places… .
@@ -751,7 +738,9 @@ every time or good old red Kentucky.”
 admiration.
 
 Zeddy, like a good understanding buddy, had slipped away. Another Scotch
-and Gordon Dry. The glasses kissed. Like a lean ined against Jake.
+and Gordon Dry. The glasses kissed. Like a lean lazy leopard the mulattress reclined against Jake.
+
+---
 
 The milk cans were sounding on the pavements and a few pale stars were
 still visible in the sky when Rose left the Congo with both hands
@@ -769,9 +758,12 @@ They went to her room in One Hundred and Thirty-third street. Locking
 the door, she said: “You remember the song they used to sing before you
 all went over there, mah brown?”
 
-Softly she chanted: “If I had some one like you at home I wouldn’t wanta
-go out, I wouldn’t wanta go out… … If I had some one like you at home,
-I’d put a padlock on the door… .”
+Softly she chanted: 
+
+> “If I had some one like you at home <br/>
+> I wouldn’t wanta go out, I wouldn’t wanta go out. … <br/>
+> If I had some one like you at home,<br/>
+> I’d put a padlock on the door… .”
 
 She hugged him to her.
 
@@ -780,6 +772,8 @@ She hugged him to her.
 “Gwan, tell that to the marines,” he panted.
 
 “Honest to God. Lemme kiss you nice.”
+
+---
 
 It was now eating-time in Harlem. They were hungry. They washed and
 dressed.
