@@ -5150,6 +5150,8 @@ Youse always been a regular fellan”
 It was late, after two a. m. I went to bed. And, as usual, I slept
 soundly.
 
+---
+
 Ma Lawton was an early riser. She made excellent coffee and she gave the
 two elevator runners and another lodger, a porter who worked on Ellis
 Island, coffee and hot homemade biscuits every morning. The next morning
@@ -5469,6 +5471,8 @@ like this sure feels like her. Didn’t even get her name. O Lawdy! what a
 night that theah night was. Her and I could sure make a hallelujah
 picnic outa a day like this.” …
 
+---
+
 Jake and Billy Biasse, leaving Dixie Red’s pool-room together, shuffled
 into a big excited ring of people at the angle of Fifth Avenue and One
 Hundred and Thirty-third Street. In the ring three bad actors were
@@ -5651,27 +5655,21 @@ blue-black symphony… . The animation subsided into a moment’s pause, a
 muffled, tremulous soul-stealing note … then electric lights flared
 everywhere, flooding the scene with dazzling gold.
 
+---
+
 Jake went to Aunt Hattie’s to feed. Billy Biasse was there and a gang of
 longshoremen who had boozed and fed and were boozing again and, touched
 by the tender spring night, were swapping love stories and singing:
 
-“Back home in Dixie is a brown gal there,
-
-Back home in Dixie is a brown gal there,
-
-Back home in Dixie is a brown gal there,
-
-Back home in Dixie I was bawn in.
-
-“Back home in Dixie is a gal I know,
-
-Back home in Dixie is a gal I know,
-
-Back home in Dixie is a gal I know,
-
-And I wonder what nigger is saying to her a bootiful
-
-good mawnin’.”
+> “Back home in Dixie is a brown gal there,<br/>
+> Back home in Dixie is a brown gal there,<br/>
+> Back home in Dixie is a brown gal there,<br/>
+> Back home in Dixie I was bawn in.
+> 
+> “Back home in Dixie is a gal I know,<br/>
+> Back home in Dixie is a gal I know,<br/>
+> Back home in Dixie is a gal I know,<br/>
+> And I wonder what nigger is saying to her a bootiful good mawnin’.”
 
 A red-brown West Indian among them volunteered to sing a Port-of-Spain
 song. It immortalized the drowning of a young black sailor. It was made
@@ -5679,39 +5677,29 @@ up by the bawdy colored girls of the port, with whom the deceased had
 been a favorite, and became very popular among the stevedores and
 sailors of the island.
 
-“Ring the bell again,
-
-Ring the bell again,
-
-Ring the bell again,
-
-But the sharks won’t puke him up.
-
-Oh, ring the bell again.
-
-“Empty is you’ room,
-
-Empty is you’ room,
-
-Empty is you’ room,
-
-But you find one in the sea.
-
-Oh, empty is you’ room.
-
-“Ring the bell again,
-
-Ring the bell again,
-
-Ring the bell again,
-
-But we know who feel the pain.
-
-Oh, ring the bell again.”
+> “Ring the bell again,<br/>
+> Ring the bell again,<br/>
+> Ring the bell again,<br/>
+> But the sharks won’t puke him up.<br/>
+> Oh, ring the bell again.
+> 
+> “Empty is you’ room,<br/>
+> Empty is you’ room,<br/>
+> Empty is you’ room,<br/>
+> But you find one in the sea.<br/>
+> Oh, empty is you’ room.
+> 
+> “Ring the bell again,<br/>
+> Ring the bell again,<br/>
+> Ring the bell again,<br/>
+> But we know who feel the pain.<br/>
+> Oh, ring the bell again.”
 
 The song was curious, like so many Negro songs of its kind, for the
 strange strengthening of its wistful melody by a happy rhythm that was
 suitable for dancing.
+
+---
 
 Aunt Hattie, sitting on a low chair, was swaying to the music and
 licking her lips, her wrinkled features wearing an expression of
@@ -5749,6 +5737,8 @@ engaged to tour the West in a Negro company.
 “All the same, I don’t feel like the Congo tonight,” said Jake. “Le’s go
 to Sheba Palace and jazz around a little.”
 
+---
+
 Sheba Palace was an immense hall that was entirely monopolized for the
 amusements of the common workaday Negroes of the Belt. Longshoremen,
 kitchen-workers, laundresses, and W. C. tenders—all gravitated to the
@@ -5783,25 +5773,19 @@ last of their creme de menthe. The floor was large and smooth enough for
 anything.
 
 They had a new song-and-dance at the Sheba and the black fellows were
-playing it with eclat.
+playing it with éclat.
 
-Brown gal crying on the corner,
+> Brown gal crying on the corner,<br/>
+> Yaller gal done stole her candy,<br/>
+> Buy him spats and feed him cream,<br/>
+> Keep him strutting fine and dandy.
+> 
+> Tell me, pa-pa, Ise you’ ma-ma,<br/>
+> Yaller gal can’t make you fall,<br/>
+> For Ise got some loving pa-pa<br/>
+> Yaller gal ain’t got at all.
 
-Yaller gal done stole her candy,
-
-Buy him spats and feed him cream,
-
-Keep him strutting fine and dandy.
-
-Tell me, pa-pa, Ise you’ ma-ma,
-
-Yaller gal can’t make you fall,
-
-For Ise got some loving pa-pa
-
-Yaller gal ain’t got at all.
-
-“Tell me, pa-pa, Ise you5 ma-ma.” The black players grinned and swayed
+“Tell me, pa-pa, Ise you’ ma-ma.” The black players grinned and swayed
 and let the music go with all their might. The yellow in the music must
 have stood out in their imagination like a challenge, conveying a sense
 of that primitive, ancient, eternal, inexplicable antagonism in the
@@ -5812,21 +5796,15 @@ abandoned to the spirit of the song. “White,” “green,” or “red” in p
 of “yaller” might have likewise touched the same deep-sounding,
 primitive chord… .
 
-Yaller gal sure wants mah pa-pa,
-
-But mah chocolate turns her down,
-
-‘Cause he knows there ain’t no loving
-
-Sweeter than his loving brown.
-
-Telli me, pa-pa, Ise you’ ma-ma,
-
-Yaller gal can’t make you fall,
-
-For Ise got some loving pa-pa
-
-Yaller gal ain’t got atall.
+> Yaller gal sure wants mah pa-pa,<br/>
+> But mah chocolate turns her down,<br/>
+> ’Cause he knows there ain’t no loving<br/>
+> Sweeter than his loving brown.
+> 
+> Tell me, pa-pa, Ise you’ ma-ma,<br/>
+> Yaller gal can’t make you fall,<br/>
+> For Ise got some loving pa-pa<br/>
+> Yaller gal ain’t got atall.
 
 Jake was doing his dog with a tall, shapely quadroon girl when, glancing
 up at the balcony, he spied the little brown that he had entirely given
@@ -5857,7 +5835,7 @@ just theah in the lav’try. Come quick. I don’t want him to ketch us.”
 And the flustered little brown heart hustled Jake down the stairs and
 out of the Sheba Palace.
 
-“Tell me, pa-pa, Ise you’ ma-ma …”
+> “Tell me, pa-pa, Ise you’ ma-ma …”
 
 The black shouting chorus pursued them outside.
 
@@ -6089,6 +6067,8 @@ The women lodgers cackled gayly over the novel staging of the fight.
 
 “And saves you’ clothes being ripped into ribbons,” said another.
 
+---
+
 A hen-fight was more fun than a cock-fight, thought Felice, as she
 hastily threw her things into her bag. The hens pluck feathers, but they
 never wring necks like the cocks.
@@ -6231,7 +6211,7 @@ colored matrons frowned upon her ways, but they had to invite her to
 their homes, nevertheless, when they asked her husband. But Maunie
 seldom went.
 
-The sports editor of Colored Life was also there, with a prominent Negro
+The sports editor of *Colored Life* was also there, with a prominent Negro
 pianist. It was rumored that Bert Williams might drop in after midnight
 Madame Mulberry was certain he would.
 
@@ -6266,7 +6246,7 @@ chrome-orange frock and cork-brown slippers, just melted into the scene.
 They were dancing as Felice entered and she led Jake right along into
 it:
 
-“Tell me, pa-pa, Ise you ma-ma …”
+> “Tell me, pa-pa, Ise you ma-ma …”
 
 Every cabaret and dancing-hall was playing it. It was the tune for the
 season. It had carried over from winter into spring and was still the
@@ -6278,29 +6258,19 @@ down in the Afro-American manner, walked into the center of the floor
 and began singing. He had a massive mouth, which he opened wide, and a
 profoundly big and quite good voice came out of it.
 
-“I’m so doggone fed up, I don’t know what to do.
-
-Can’t find a pal that’s constant, can’t find a gal that’s true.
-
-But I ain’t gwine to worry ‘cause mah buddy was a ham;
-
-Ain’t gwine to cut mah throat ‘cause mah gal ain’t worf a damn.
-
-Ise got the blues all ovah, the coal-black biting blues,
-
-Like a prowling tom-cat that’s got the low-down mews.
-
-‘I’m gwine to lay me in a good supply a gin,
-
-Foh gunning is a crime, but drinking ain’t no sin.
-
-I won’t do a crazy deed ‘cause of a two-faced pal,
-
-Ain’t gwineta break mah heart ovah a no-‘count gal
-
-Ise got the blues all ovah, the coal-black biting blues,
-
-Like a prowling tom-cat that’s got the low-down mews.”
+> “I’m so doggone fed up, I don’t know what to do.<br/>
+> Can’t find a pal that’s constant, can’t find a gal that’s true.<br/>
+> But I ain’t gwine to worry ‘cause mah buddy was a ham;<br/>
+> Ain’t gwine to cut mah throat ‘cause mah gal ain’t worf a damn.<br/>
+> Ise got the blues all ovah, the coal-black biting blues,<br/>
+> Like a prowling tom-cat that’s got the low-down mews.
+> 
+> “I’m gwine to lay me in a good supply a gin,<br/>
+> Foh gunning is a crime, but drinking ain’t no sin.<br/>
+> I won’t do a crazy deed ‘cause of a two-faced pal,<br/>
+> Ain’t gwineta break mah heart ovah a no-‘count gal<br/>
+> Ise got the blues all ovah, the coal-black biting blues,<br/>
+> Like a prowling tom-cat that’s got the low-down mews.”
 
 There was something of the melancholy charm of Tschaikovsky in the
 melody. The black singer made much of the triumphant note of strength
@@ -6315,9 +6285,8 @@ that Negroes could do just as good or better, Maunie Whitewing’s sleek
 escort imitated the gesture with a two-dollar note. That started off the
 singer again.
 
-“Ain’t gwine to cut mah throat …
-
-Ain’t gwine to break mah heart …”
+> “Ain’t gwine to cut mah throat …<br/>
+> Ain’t gwine to break mah heart …”
 
 “That zigaboo is a singing fool,” remarked Jake.
 
@@ -6364,8 +6333,8 @@ alacrity. He loved to indulge in naked man-stuff talk, which would be
 too raw even for Felice’s ears. As they went out Maunie Whitewing (she
 was a traveled woman of the world and had been abroad several times with
 and without her husband) smiled upon Jake with a bold stare and remarked
-to Madame Mulberry: “Quel beau gargont J’aimerais beaucoup faire Vamour
-avec lui.”
+to Madame Mulberry: “*Quel beau garçon! J’aimerais beaucoup faire l’amour
+avec lui.*”
 
 “Superb!” agreed Madame Mulberry, appreciating Jake through her
 lorgnette.
@@ -6374,6 +6343,8 @@ Felice caught Maunie Whitewing’s carnal stare at her man and said to the
 mulatto girl: “Jest look at that high-class hussy!”
 
 And the dapper escort tried to be obviously unconcerned.
+
+---
 
 At the bar the three pals had finished one round and the bar-man was in
 the act of pouring another when a loud scream tore through music and
@@ -6591,6 +6562,8 @@ I wouldn’t take no chances.”
 
 “I guess youse right, sweetness. Come on, le’s get our stuff together.”
 
+---
+
 The two leather cases were set together against the wall. Felice sat
 upon the bed dangling her feet and humming “Tell me, pa-pa, Ise you
 ma-ma.” Jake, in white shirt-sleeves, was arranging in the mirror a
@@ -6625,13 +6598,13 @@ The same jolly, compact manager was there, grinning a welcome to strange
 white visitors, who were pleased and never guessed what cautious reserve
 lurked under that grin.
 
-Tell me, pa-pa, Ise you’ ma-ma… .
+> Tell me, pa-pa, Ise you’ ma-ma… .
 
 Jake and Felice squeezed a way in among the jazzers. They were all drawn
 together in one united mass, wriggling around to the same primitive,
 voluptuous rhythm.
 
-Tell me, pa-pa, Ise you’ ma-ma… .
+> Tell me, pa-pa, Ise you’ ma-ma… .
 
 Haunting rhythm, mingling of naive wistfulness and charming gayety, now
 sheering over into mad riotous joy, now, like a jungle mask, strange,
@@ -6647,7 +6620,7 @@ frighten and repel refined souls, because they are too intensely real,
 just as a simple savage stands dismayed before nice emotions that he
 instantly perceives are false.
 
-Tell me, pa-pa, Ise you’ ma-ma… .
+> Tell me, pa-pa, Ise you’ ma-ma… .
 
 Jake was the only guest left in the Baltimore. The last wriggle was
 played. The waiters were picking up things and settling accounts,
