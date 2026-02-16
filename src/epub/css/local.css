@@ -76,3 +76,20 @@ p span.i4{
 	text-indent: -1em;
 }
 /* End verse */
+
+/* Begin letters */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	margin-top: 1em;
+	text-indent: 0;
+}
+
+p[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+	text-align: center;
+}
+/* End letters */
