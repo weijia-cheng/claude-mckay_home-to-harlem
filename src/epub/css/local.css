@@ -33,13 +33,15 @@ section[epub|type~="dedication"] > *{
 
 /* Begin verse */
 [epub|type~="z3998:song"] p,
-[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p > span,
-[epub|type~="z3998:poem"] p > span{
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
@@ -61,6 +63,11 @@ p span.i1{
 
 p span.i2{
 	padding-left: 3em;
+	text-indent: -1em;
+}
+
+p span.i3{
+	padding-left: 4em;
 	text-indent: -1em;
 }
 
